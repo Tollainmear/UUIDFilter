@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="SpongeForge-bleeding" external.linked.project.path="$MODULE_DIR$/../../../API/SpongeForge-bleeding" external.root.project.path="$MODULE_DIR$/../../../API/SpongeForge-bleeding" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../API/SpongeForge-bleeding" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="UUIDFilter_main" />
+  </component>
+</module>
